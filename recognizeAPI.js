@@ -7,20 +7,22 @@ var fs = require("fs");
 var requestType = process.argv.slice(2).toString();
 
 // Replace <Subscription Key> with your valid subscription key.
-const subscriptionKey = "741767c68a81460a8de17e8d508d862e";
+const subscriptionKey = "<Subscription Key>";
 
 const uriBaseGenerateThumbnail =
-  "https://westeurope.api.cognitive.microsoft.com/vision/v1.0/generateThumbnail";
+  "<Your Endpoint>/generateThumbnail";
 
 const uriBaseAnalyzeImage =
-  "https://westeurope.api.cognitive.microsoft.com/vision/v1.0/analyze";
+  "<Your Endpoint>/analyze";
 
 const uriBaseOCR =
-  "https://westeurope.api.cognitive.microsoft.com/vision/v1.0/ocr";
+  "<Your Endpoint>/ocr";
 
+// Image URL For Analyze Image and Generate a Thumbnail
 const imageUrl =
   "https://cokgezenadam.com/wp-content/uploads/2014/07/k%C4%B1z-kulesi.jpg";
 
+//Image URL For Extract printed text (OCR)
 const ocrImageUrl =
   "http://siirler.teokul.com/wp-content/uploads/2015/11/istiklal-marsi-2-kita-acik-yazili.png";
 
