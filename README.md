@@ -1,5 +1,6 @@
 # AzureEyes
 Microsoft Azure Recognitive kullanarak resim analizi ve resimden metin okuma üzerine başlangıç Node.js projesi
+https://medium.com/@yakupad/biz-bak%C4%B1yoruz-peki-azure-ne-g%C3%B6r%C3%BCyor-6b2f26282e37
 
 - Resim Analizi (Analyze an Image)
 - Önizleme Resmi Yaratma (Generate a thumbnail)
