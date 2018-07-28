@@ -9,6 +9,8 @@ https://medium.com/@yakupad/biz-bak%C4%B1yoruz-peki-azure-ne-g%C3%B6r%C3%BCyor-6
 ### Resim Analizi (Analyze an Image) Sonuçları
 Bu özellik için Google resimlerden bulduğum kız kulesi resmini servise analize gönderdim ve sonuç aşağıdaki gibi.Bence sonuçlar mükemmel!
 
+![aResim Analizi Sonucu](https://cokgezenadam.com/wp-content/uploads/2014/07/k%C4%B1z-kulesi.jpg)
+
 ```json
 {
   "categories": [
@@ -91,6 +93,7 @@ Bu özellik için Google resimlerden bulduğum kız kulesi resmini servise anali
 ![aÖnizleme Resmi Yaratma (Generate a thumbnail) Sonucu](https://cdn-images-1.medium.com/max/1600/1*MOtJTUqXiq1ObH26KMpgyQ.png)
 
 ## Resimden Metin Okuma (Extract printed text (OCR)) Sonucu
+![aResim Analizi Sonucu](http://siirler.teokul.com/wp-content/uploads/2015/11/istiklal-marsi-2-kita-acik-yazili.png)
 ```json
 {
   "language": "tr",
