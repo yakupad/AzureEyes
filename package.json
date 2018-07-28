@@ -1,0 +1,17 @@
+{
+  "name": "recognizeexample",
+  "version": "1.0.0",
+  "description": "recognizeAPI Example",
+  "main": "recognizeAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recognize"
+  ],
+  "author": "Yakup AD",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
