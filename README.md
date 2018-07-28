@@ -387,6 +387,7 @@ Bu özellik için Google resimlerden bulduğum kız kulesi resmini servise anali
 }
 ```
 ## Çalıştırma
+``` npm install ```
 
 ### Resim Analizi (Analyze an Image) için 
 ``` node cognitiveAPI.js analyze ```
