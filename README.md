@@ -395,6 +395,6 @@ Akıllı kırpma uygulayarak, özgün resmin en boy oranını değiştiren küç
 ### Önizleme Resmi Yaratma (Generate a thumbnail) için
 ``` node cognitiveAPI.js thumbnail ```
 ### Resimden Metin Okuma (Extract printed text (OCR)) için
-``` node rcognitiveAPI.js OCR ```
+``` node cognitiveAPI.js OCR ```
 
 #### Daha Fazlası için Azure Recognitive Service dökümanını inceleyebilirsiniz. → https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
