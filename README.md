@@ -89,6 +89,7 @@ Bu özellik için Google resimlerden bulduğum kız kulesi resmini servise anali
 }
 ```
 ## Önizleme Resmi Yaratma (Generate a thumbnail) Sonucu
+Akıllı kırpma uygulayarak, özgün resmin en boy oranını değiştiren küçük resimleri istediğiniz bölgeyi kaybetmeden oluşturun.
 
 ![aÖnizleme Resmi Yaratma (Generate a thumbnail) Sonucu](https://cdn-images-1.medium.com/max/1600/1*MOtJTUqXiq1ObH26KMpgyQ.png)
 
